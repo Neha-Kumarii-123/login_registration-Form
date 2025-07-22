@@ -19,6 +19,7 @@ A beginner-friendly PHP-based user authentication system with session handling a
 ##  Folder Structure
 
 project/
+
 ├── db.php             # Database connection file
 
 ├── login.php          # Login page
