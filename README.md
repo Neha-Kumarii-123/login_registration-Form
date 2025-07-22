@@ -16,14 +16,19 @@ A beginner-friendly PHP-based user authentication system with session handling a
 - Backend: PHP
 - Database: MySQL
 
-##  Folder Structure (optional but useful)
+##  Folder Structure
 
 project/
 ├── db.php             # Database connection file
+
 ├── login.php          # Login page
+
 ├── register.php       # Registration page
+
 ├── dashboard.php      # Protected user area
+
 ├── logout.php         # Ends the session
+
 └── auth\_system.sql    # MySQL database file
 
 ##  Setup Instructions
