@@ -1,0 +1,25 @@
+# Ignore configuration files with secrets
+/includes/config.php
+/config/
+.env
+
+# Ignore dependency directories
+/vendor/
+/node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore local environment files
+.env.local
+.env.*.local
